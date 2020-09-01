@@ -4,6 +4,7 @@ import java.net.Inet4Address;
 
 public class Student {
     private Integer id;
+    private String name;
 
     public Integer getId() {
         return id;
